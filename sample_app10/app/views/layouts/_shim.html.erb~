@@ -1,0 +1,4 @@
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+Similarly, we can move the header material into the partial shown in Listing 5.11 and insert it into the layo
